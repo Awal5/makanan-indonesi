@@ -1,0 +1,3 @@
+Terdapat penerapan js yaitu image slider
+caranya tinggal klik panah kanan/kiri pada image slider untuk berpindah
+image
